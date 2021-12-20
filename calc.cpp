@@ -10,8 +10,8 @@ int main() {
 	cout << "Выберите операцию из списка:" << endl;
 	cout << "1 - сложение чисел" << endl;
 	cout << "2 - вычитание чисел" << endl;
-	cout << "3 - умножение чисел" << endl;
-	cout << "4 - деление" << endl;
+	cout << "3 - умножение " << endl;
+	cout << "4 - деление чисел" << endl;
 	cin >> choice;
 	cout << endl;
 
