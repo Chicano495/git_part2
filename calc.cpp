@@ -8,7 +8,7 @@ int main() {
 	double a, b;
 
 	cout << "Выберите операцию из списка:" << endl;
-	cout << "1 - сложение" << endl;
+	cout << "1 - сложение чисел" << endl;
 	cout << "2 - вычитание" << endl;
 	cout << "3 - умножение" << endl;
 	cout << "4 - деление" << endl;
